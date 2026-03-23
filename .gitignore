@@ -26,3 +26,7 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+# Prevent future tracking of macOS metadata (AppleDouble)
+._*
+.DS_Store
