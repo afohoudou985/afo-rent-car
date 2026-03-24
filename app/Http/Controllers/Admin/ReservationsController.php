@@ -128,9 +128,9 @@ class ReservationsController extends Controller
         ]);
 
         // Restrict this action
-        return redirect()
-            ->back()
-            ->with('restricted_action', 'This is a demo version. For security reasons, create, update, and delete actions are disabled.');
+        // return redirect()
+        //     ->back()
+        //     ->with('restricted_action', 'This is a demo version. For security reasons, create, update, and delete actions are disabled.');
 
 
         $reservation->fill($validated);

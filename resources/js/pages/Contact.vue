@@ -200,7 +200,7 @@ const sendTicket = () => {
                                         Téléphone
                                     </h4>
                                     <p class="text-gray-600">
-                                        +1 (555) 123-4567
+                                        +228 90764027
                                     </p>
                                 </div>
 
@@ -212,7 +212,7 @@ const sendTicket = () => {
                                         Email
                                     </h4>
                                     <p class="text-gray-600">
-                                        info@Aforentcar.com
+                                        afohoudou985@gmail.com
                                     </p>
                                 </div>
 

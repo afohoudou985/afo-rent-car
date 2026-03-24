@@ -62,7 +62,7 @@ import { contact, fleet } from '@/routes';
                                     <div
                                         class="mb-2 text-3xl font-bold text-orange-500"
                                     >
-                                        200+
+                                        20+
                                     </div>
                                     <div class="text-gray-600">Véhicules</div>
                                 </div>
@@ -82,7 +82,7 @@ import { contact, fleet } from '@/routes';
                                     <div
                                         class="mb-2 text-3xl font-bold text-orange-500"
                                     >
-                                        15+
+                                        3+
                                     </div>
                                     <div class="text-gray-600">Agences</div>
                                 </div>
