@@ -23,7 +23,7 @@ const sendTicket = () => {
             notificationMessage.value = 'Message sent successfully!';
             setTimeout(() => {
                 showNotification.value = false;
-            }, 2000);
+            }, 4000);
         },
         onError() {
             showNotification.value = true;
@@ -31,7 +31,7 @@ const sendTicket = () => {
                 'Failed to send message! Please try again.';
             setTimeout(() => {
                 showNotification.value = false;
-            }, 2000);
+            }, 4000);
         },
     });
 };
